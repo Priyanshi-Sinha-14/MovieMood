@@ -39,13 +39,13 @@ with col2:
     st.image("images/logo.jpg")
 
 """
-Sahil Raj Sinha is an aspiring Artificial Intelligence and Machine Learning professional with a strong foundation in Computer Science and Data Analytics.
+Priyanshi Sinha is an aspiring Artificial Intelligence and Machine Learning professional with a strong foundation in Computer Science and Data Analytics.
 
-He is passionate about building intelligent, data-driven applications that combine analytical precision with user-focused design. His expertise includes machine learning model development, data preprocessing, recommendation systems, and interactive web deployment using Streamlit.
+She is passionate about building intelligent, data-driven applications that combine analytical precision with user-focused design. Her expertise includes machine learning model development, data preprocessing, recommendation systems, and interactive web deployment using Streamlit.
 
-Through projects like MovieMood, Sahil demonstrates his ability to design, develop, and deploy end-to-end AI solutions that solve real-world problems efficiently and effectively.
+Through projects like MovieMood, Priyanshi demonstrates his ability to design, develop, and deploy end-to-end AI solutions that solve real-world problems efficiently and effectively.
 
-He is committed to continuous learning, innovation, and applying advanced technologies to create scalable and impactful software solutions.
+She is committed to continuous learning, innovation, and applying advanced technologies to create scalable and impactful software solutions.
 """
 
 st.write(f'<br><br>',unsafe_allow_html=True)
@@ -53,9 +53,9 @@ st.write(f'<br><br>',unsafe_allow_html=True)
 col1,col2,col3,col4,col5=st.columns(5)
 cols=[col1,col2,col3,col4,col5]
 
-member_names = ["Sahil Raj Sinha"]
-member_photos = ['Sahil.jpeg']
-member_links = ['https://www.linkedin.com/in/sahil-raj-sinha-43708626a']
+member_names = ["Priyanshi Sinha"]
+member_photos = ['Priyansi.jpeg']
+member_links = ['https://www.linkedin.com/in/priyanshi-sinha-0b2385323']
 
 for i in range(0,1):    
     with cols[i]:
