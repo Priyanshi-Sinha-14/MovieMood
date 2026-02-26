@@ -54,7 +54,7 @@ col1,col2,col3,col4,col5=st.columns(5)
 cols=[col1,col2,col3,col4,col5]
 
 member_names = ["Priyanshi Sinha"]
-member_photos = ['Priyansi.jpeg']
+member_photos = ['Priyanshi.jpeg']
 member_links = ['https://www.linkedin.com/in/priyanshi-sinha-0b2385323']
 
 for i in range(0,1):    
